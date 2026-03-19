@@ -9,7 +9,7 @@ I learn by going to the source. Tanenbaum before tutorials. I run production inf
 
 ## What I'm building
 
-**[homecore](https://github.com/lpedro-s/homecore)** — self-hosted
+**[eregion](https://github.com/lpedro-s/eregion)** — self-hosted
 infrastructure on Debian/Docker: Traefik, Pi-hole + Unbound, Grafana,
 Vaultwarden, Gitea, Jellyfin, and more. Automated healthchecks, drift
 detection, DNS-over-TLS, fail2ban. Built to understand systems, not
