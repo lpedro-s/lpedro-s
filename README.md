@@ -39,6 +39,7 @@ DNS         Pi-hole · Unbound
 - Learning backend development, systems, and infrastructure — always building, always reading
 - Actively contributing to open source — GSoC 2026 applicant
 - Open to new opportunities
+- Exploring data engineering and analytics — SQL and Python
 
 ---
 
